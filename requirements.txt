@@ -5,3 +5,4 @@ pypdf
 reportlab
 pandas
 PyMuPDF
+scikit-learn
